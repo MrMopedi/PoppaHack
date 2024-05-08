@@ -61,7 +61,7 @@ Available on <strong>Windows</strong> and <strong>Linux</strong><br>
 ```
 </p>
 
-<h1>🔒・Requirements:</h1>
+<h1>Requirements:</h1>
 <h3>Windows:</h3>
 <p>
 - You need to install <a href="https://www.python.org/downloads/">Python</a> with the <a href="Img/pythonpath.png">PATH</a> option.<br>
