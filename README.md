@@ -2,7 +2,7 @@
 <p align="center">
 
 </p>
-<img src="Img/poppa_icon.ico" wdth="9999">
+<img src="Img/poppahack.png" wdth="9999">
 <p>
 </p>
 <h1>Description:</h1>
