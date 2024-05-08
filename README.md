@@ -13,7 +13,7 @@ Tool in <strong>English</strong>.<br>
 Available on <strong>Windows</strong> and <strong>Linux</strong><br>
 <strong>Open Source</strong> only for verification, ensuring no viruses or malicious programs.<br>
 <strong>Frequently updated</strong>.<br>
-strong>Free</strong> for everyone.<br>
+</strong>Free</strong> for everyone.<br>
 </p>
 
 <h1>Functions:</h1>
