@@ -1,0 +1,6 @@
+name_tool = "Poppa Hack"
+version_tool = "3.0"
+coding_tool = "Python 3"
+language_tool = "EN"
+creator = "PoppaMies"
+platform = "Windows 10/11 & Linux"
