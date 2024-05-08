@@ -52,7 +52,7 @@ strong>Free</strong> for everyone.<br>
 <h1>🔒・Requirements:</h1>
 <h3>Windows:</h3>
 <p>
-- You need to install <a href="https://www.python.org/downloads/">Python</a> with the <a href="[Img/pythonpath.png)">PATH</a> option.<br>
+- You need to install <a href="https://www.python.org/downloads/">Python</a> with the <a href="Img/pythonpath.png">PATH</a> option.<br>
 - Windows 10 & 11
 </p>
 <h1>Installation:</h1>
