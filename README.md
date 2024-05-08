@@ -16,6 +16,7 @@ PoppaHack´s Features are
 《Logged in as ----- 》
 
    ⌈Page 1⌋
+   
    ⌈01⌋ ⊳ Tool Info                      ⌈11⌋ ⊳ Email OSINT                    ⌈21⌋ ⊳ Discord Token Joiner
    ⌈02⌋ ⊳ Tool Website                   ⌈12⌋ ⊳ Ip Info                        ⌈22⌋ ⊳ Discord Token Leaver
    ⌈03⌋ ⊳ Builder Stealer                ⌈13⌋ ⊳ Ip Pinger                      ⌈23⌋ ⊳ Discord Token Login
