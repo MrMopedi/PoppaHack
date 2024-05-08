@@ -56,9 +56,7 @@ Available on <strong>Windows</strong> and <strong>Linux</strong><br>
 - Windows 10 & 11
 </p>
 <h1>Installation:</h1>
-```
 - Launch "Setup.bat" or "Setup.py"
-```
 </p>
 
 <h2>Credits:</h2>
